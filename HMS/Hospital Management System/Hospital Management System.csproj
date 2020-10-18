@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A978896C-6366-4E2F-89D2-BC92FA6E27DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hospital_Management_System</RootNamespace>
+    <AssemblyName>Hospital Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts.Designer.cs">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStaff.Designer.cs">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientSearch.Designer.cs">
+      <DependentUpon>AdminPatientSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminProfile.Designer.cs">
+      <DependentUpon>AdminProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AvailableDoctors.Designer.cs">
+      <DependentUpon>AvailableDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AvailableRooms.Designer.cs">
+      <DependentUpon>AvailableRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="DischargedPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DischargedPatients.Designer.cs">
+      <DependentUpon>DischargedPatients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorManagement.Designer.cs">
+      <DependentUpon>DoctorManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorPatientDischarge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorPatientDischarge.Designer.cs">
+      <DependentUpon>DoctorPatientDischarge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctorprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctorprofile.Designer.cs">
+      <DependentUpon>Doctorprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorSearch.Designer.cs">
+      <DependentUpon>DoctorSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDoctor.Designer.cs">
+      <DependentUpon>AddDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDoctor.Designer.cs">
+      <DependentUpon>EditDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditDoctor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDoctor2.Designer.cs">
+      <DependentUpon>EditDoctor2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPatient.Designer.cs">
+      <DependentUpon>EditPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditPatient2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPatient2.Designer.cs">
+      <DependentUpon>EditPatient2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditStaff.Designer.cs">
+      <DependentUpon>EditStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditStaff2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditStaff2.Designer.cs">
+      <DependentUpon>EditStaff2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDatabaseDataSet.cs">
+      <DependentUpon>HospitalDatabaseDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HospitalDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDatabaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDatabaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDatabaseDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDatabaseDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorPatientList.Designer.cs">
+      <DependentUpon>DoctorPatientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientList.Designer.cs">
+      <DependentUpon>AdminPatientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrescriptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescriptionForm.Designer.cs">
+      <DependentUpon>PrescriptionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrescriptionForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescriptionForm2.Designer.cs">
+      <DependentUpon>PrescriptionForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveDoctor.Designer.cs">
+      <DependentUpon>RemoveDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemovePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemovePatient.Designer.cs">
+      <DependentUpon>RemovePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveStaff.Designer.cs">
+      <DependentUpon>RemoveStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Room.Designer.cs">
+      <DependentUpon>Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffManagement.Designer.cs">
+      <DependentUpon>StaffManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffPatientList.Designer.cs">
+      <DependentUpon>StaffPatientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffPatientSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffPatientSearch.Designer.cs">
+      <DependentUpon>StaffPatientSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffprofile.Designer.cs">
+      <DependentUpon>Staffprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffSearch.Designer.cs">
+      <DependentUpon>StaffSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="AddStaff.resx">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientList.resx">
+      <DependentUpon>AdminPatientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientSearch.resx">
+      <DependentUpon>AdminPatientSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminProfile.resx">
+      <DependentUpon>AdminProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvailableDoctors.resx">
+      <DependentUpon>AvailableDoctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvailableRooms.resx">
+      <DependentUpon>AvailableRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DischargedPatients.resx">
+      <DependentUpon>DischargedPatients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorManagement.resx">
+      <DependentUpon>DoctorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorPatientDischarge.resx">
+      <DependentUpon>DoctorPatientDischarge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctorprofile.resx">
+      <DependentUpon>Doctorprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorSearch.resx">
+      <DependentUpon>DoctorSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDoctor.resx">
+      <DependentUpon>AddDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDoctor.resx">
+      <DependentUpon>EditDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDoctor2.resx">
+      <DependentUpon>EditDoctor2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPatient.resx">
+      <DependentUpon>EditPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPatient2.resx">
+      <DependentUpon>EditPatient2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditStaff.resx">
+      <DependentUpon>EditStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditStaff2.resx">
+      <DependentUpon>EditStaff2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorPatientList.resx">
+      <DependentUpon>DoctorPatientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescriptionForm.resx">
+      <DependentUpon>PrescriptionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescriptionForm2.resx">
+      <DependentUpon>PrescriptionForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveDoctor.resx">
+      <DependentUpon>RemoveDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemovePatient.resx">
+      <DependentUpon>RemovePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveStaff.resx">
+      <DependentUpon>RemoveStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Room.resx">
+      <DependentUpon>Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffManagement.resx">
+      <DependentUpon>StaffManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffPatientList.resx">
+      <DependentUpon>StaffPatientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffPatientSearch.resx">
+      <DependentUpon>StaffPatientSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffprofile.resx">
+      <DependentUpon>Staffprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffSearch.resx">
+      <DependentUpon>StaffSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HospitalDatabaseDataSet.xsc">
+      <DependentUpon>HospitalDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDatabaseDataSet.xss">
+      <DependentUpon>HospitalDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDatabaseDataSet1.xsc">
+      <DependentUpon>HospitalDatabaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDatabaseDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDatabaseDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDatabaseDataSet1.xss">
+      <DependentUpon>HospitalDatabaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDatabaseDataSet2.xsc">
+      <DependentUpon>HospitalDatabaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDatabaseDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDatabaseDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDatabaseDataSet2.xss">
+      <DependentUpon>HospitalDatabaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceongEoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8782f84611d745f09ec40847d8033efb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

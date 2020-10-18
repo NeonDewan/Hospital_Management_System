@@ -1,0 +1,168 @@
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\Solution1\Hospital Management System\obj\Debug\Hospital_Management_System.Mainpanel.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\project\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminProfile.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorprofile.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientList.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminProfile.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableDoctors.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableRooms.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorManagement.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorprofile.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientList.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationForm.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Room.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientList.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientList.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableDoctors.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableRooms.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorManagement.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientList.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Room.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientList.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientList.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminProfile.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AppointmentList.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableDoctors.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableRooms.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorManagement.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorprofile.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorWorkSchedule.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientList.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Room.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientList.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Shovra\Downloads\project\project\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffManagement.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctor.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveDoctor.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddStaff.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveStaff.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddStaff.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctor.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveDoctor.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemovePatient.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveStaff.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffManagement.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemovePatient.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor2.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor2.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient2.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff2.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorSearch.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientSearch.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientSearch.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffSearch.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientDischarge.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.DischargedPatients.resources
+D:\RIDWAN\EDUCATION\AIUB\8th semester\C#\Finals\latest_project\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm2.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientSearch.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DischargedPatients.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientDischarge.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorSearch.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient2.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff2.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm2.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientSearch.resources
+C:\Users\NEON\Desktop\New folder (2)\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffSearch.resources
+F:\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\Study\C#\project\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddStaff.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientList.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientSearch.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AdminProfile.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableDoctors.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableRooms.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DischargedPatients.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorManagement.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientDischarge.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorprofile.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorSearch.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctor.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor2.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient2.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff2.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientList.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm2.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationForm.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveDoctor.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemovePatient.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveStaff.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Room.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffManagement.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientList.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientSearch.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffSearch.resources
+F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
